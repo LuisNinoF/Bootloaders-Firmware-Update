@@ -1,0 +1,17 @@
+../Src/circular_buffer.c:41:6:circular_buffer_init	4	static
+../Src/circular_buffer.c:57:13:buff_store_char	24	static
+../Src/circular_buffer.c:73:6:buffer_clear	16	static
+../Src/circular_buffer.c:97:5:buffer_peek	16	static
+../Src/circular_buffer.c:137:5:buffer_read	24	static
+../Src/circular_buffer.c:182:6:buffer_write	24	static
+../Src/circular_buffer.c:220:5:is_data	24	static
+../Src/circular_buffer.c:241:13:get_first_char	16	static
+../Src/circular_buffer.c:256:5:is_response	24	static
+../Src/circular_buffer.c:285:6:get_strs	24	static
+../Src/circular_buffer.c:297:6:buffer_send_string	16	static
+../Src/circular_buffer.c:305:6:slave_dev_uart_callback	16	static
+../Src/circular_buffer.c:338:6:debug_uart_callback	16	static
+../Src/circular_buffer.c:370:15:process_copy	40	static
+../Src/circular_buffer.c:420:8:copy_up_to_string	16	static
+../Src/circular_buffer.c:427:6:USART2_IRQHandler	8	static
+../Src/circular_buffer.c:432:6:USART1_IRQHandler	8	static

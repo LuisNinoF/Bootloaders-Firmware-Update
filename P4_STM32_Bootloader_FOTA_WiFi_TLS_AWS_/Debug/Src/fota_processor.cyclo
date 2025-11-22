@@ -1,0 +1,2 @@
+../Src/fota_processor.c:8:13:find_substring	3
+../Src/fota_processor.c:22:5:firmware_parser	9
