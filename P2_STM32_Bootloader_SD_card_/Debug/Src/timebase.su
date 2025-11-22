@@ -1,0 +1,6 @@
+../Src/timebase.c:24:6:delay	24	static
+../Src/timebase.c:38:10:get_tick	4	static,ignoring_inline_asm
+../Src/timebase.c:47:13:tick_increment	4	static
+../Src/timebase.c:51:6:timebase_init	4	static,ignoring_inline_asm
+../Src/timebase.c:77:6:fatfs_tmr_callback	4	static
+../Src/timebase.c:89:6:SysTick_Handler	8	static

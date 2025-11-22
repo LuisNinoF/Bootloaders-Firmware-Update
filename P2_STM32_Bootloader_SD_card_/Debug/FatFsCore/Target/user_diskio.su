@@ -1,0 +1,5 @@
+../FatFsCore/Target/user_diskio.c:22:10:TARGET_initialize	16	static
+../FatFsCore/Target/user_diskio.c:28:9:TARGET_read	24	static
+../FatFsCore/Target/user_diskio.c:34:9:TARGET_write	24	static
+../FatFsCore/Target/user_diskio.c:40:9:TARGET_ioctl	16	static
+../FatFsCore/Target/user_diskio.c:47:9:TARGET_status	16	static

@@ -1,0 +1,5 @@
+../FatFsCore/Target/user_diskio.c:22:10:TARGET_initialize	1
+../FatFsCore/Target/user_diskio.c:28:9:TARGET_read	1
+../FatFsCore/Target/user_diskio.c:34:9:TARGET_write	1
+../FatFsCore/Target/user_diskio.c:40:9:TARGET_ioctl	1
+../FatFsCore/Target/user_diskio.c:47:9:TARGET_status	1

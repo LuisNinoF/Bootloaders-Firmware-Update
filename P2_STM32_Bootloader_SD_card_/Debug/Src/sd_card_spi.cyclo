@@ -1,0 +1,4 @@
+../Src/sd_card_spi.c:20:6:cs_pin_set	1
+../Src/sd_card_spi.c:25:6:cs_pin_reset	1
+../Src/sd_card_spi.c:30:6:sd_cs_pin_init	1
+../Src/sd_card_spi.c:42:6:sd_card_spi_init	1

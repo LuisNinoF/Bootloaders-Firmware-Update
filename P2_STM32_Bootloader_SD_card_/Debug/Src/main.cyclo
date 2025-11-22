@@ -1,0 +1,4 @@
+../Src/main.c:45:5:main	2
+../Src/main.c:96:6:jump_to_app	2
+../Src/main.c:121:5:update_main_firmware	9
+../Src/main.c:234:6:dump_flash	3

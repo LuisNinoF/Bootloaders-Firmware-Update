@@ -1,0 +1,2 @@
+../FatFsCore/App/fatfs_app.c:9:6:fatfs_init	8	static
+../FatFsCore/App/fatfs_app.c:14:7:get_fatfs_time	4	static
