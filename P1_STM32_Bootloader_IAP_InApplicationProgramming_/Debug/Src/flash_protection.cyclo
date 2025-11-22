@@ -1,0 +1,10 @@
+../Src/flash_protection.c:27:9:flash_obytes_get_wrp	1
+../Src/flash_protection.c:32:9:flash_obytes_get_rdp	1
+../Src/flash_protection.c:39:9:flash_obytes_get_user	1
+../Src/flash_protection.c:45:9:flash_obytes_get_bor	1
+../Src/flash_protection.c:51:19:flash_obytes_lock	1
+../Src/flash_protection.c:58:19:flash_obytes_unlock	2
+../Src/flash_protection.c:74:6:sector_set_wrp	3
+../Src/flash_protection.c:100:6:dis_wrp_all_sectors	3
+../Src/flash_protection.c:124:6:flash_set_rdp_level	3
+../Src/flash_protection.c:146:6:flash_obytes_get_config	1
